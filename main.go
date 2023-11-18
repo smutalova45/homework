@@ -1,5 +1,5 @@
 package main
 import "fmt"
 func main(){
-	fmt.Println("All homeworks")
+	// fmt.Println("All homeworks")
 }
